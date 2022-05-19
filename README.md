@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rshubhani
 - 👀 I'm a Technical Writer.
 - 🌱 I’m currently learning about GitHub.
-- 📫 Please reach me at rshubhani@gmail.com
+- 📫 You can reach me at rshubhani@gmail.com
 
 <!---
 rshubhani/rshubhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
