@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rshubhani
-- 👀 I'm Technical Writer.
+- 👀 I'm a Technical Writer.
 - 🌱 I’m currently learning about GitHub.
 - 📫 Please reach me at rshubhani@gmail.com
 
