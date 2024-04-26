@@ -1,13 +1,13 @@
-# Shubhani's Bio
+# Hi, I am Shubhani 👋 | 📝 I am a Technical Writer and a Certified Scrum Master
 
-📝 Technical writer for almost 6 years
+Welcome to My GitHub! I'm a passionate Technical Writer who thrives on learning about new documentation tools and implementing them to streamline processes. I hold a Bachelor's degree in Computer Science and Engineering, and I've also completed a Postgraduate program in Advanced Project Management and Strategic Leadership. 
 
-💻 Currently studying Bachelor's in Computer Science and Engineering
+When I'm not busy with work, you can catch me indulging in crime and horror movies for some thrilling entertainment. 🎬
 
-🎓 Postgrad in Advanced Project Management and Strategic Leadership
+# This is what I do 
+I'm the go-to person for writing clear and helpful guides about tech stuff. Whether it's explaining how to use new software or updating manuals, I make sure everything makes sense. With tools like Madcap Flare, Robohelp, AdobeFramemaker, Confluence or MS_Word, I turn complicated info into easy-to-understand words. 
 
-✅ Certified Scrum Master by Scrum Alliance
+# Let's Link up!
 
-🌱 Enthusiastic learner, always trying out new things and acquiring new skills
-
-🎬 Horror and crime thriller movie buff
+GitHub: https://github.com/rshubhani
+Linkedln: https://www.linkedin.com/in/shubhani-rawat-12a82892/
