@@ -1,4 +1,5 @@
-# Hi, I am Shubhani 👋 | 📝 I am a Technical Writer and a Certified Scrum Master
+# Hi, I am Shubhani 👋 
+# I am a Technical Writer and a Certified Scrum Master 📝 
 
 Welcome to My GitHub! I'm a passionate Technical Writer who thrives on learning about new documentation tools and implementing them to streamline processes. I hold a Bachelor's degree in Computer Science and Engineering, and I've also completed a Postgraduate program in Advanced Project Management and Strategic Leadership. 
 
