@@ -10,6 +10,6 @@ I'm the go-to person for writing clear and helpful guides about tech stuff. Whet
 
 # Let's Link up!
 
-GitHub: [https://github.com/rshubhani](url)
+GitHub: https://github.com/rshubhani
 
-Linkedln: [https://www.linkedin.com/in/shubhani-rawat-12a82892/](url)
+Linkedln: (https://www.linkedin.com/in/shubhani-rawat-12a82892/)
