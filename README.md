@@ -12,4 +12,4 @@ I'm the go-to person for writing clear and helpful guides about tech stuff. Whet
 
 GitHub: https://github.com/rshubhani
 
-Linkedln: (https://www.linkedin.com/in/shubhani-rawat-12a82892/)
+Linkedln: https://www.linkedin.com/in/shubhani-rawat-12a82892/
