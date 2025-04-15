@@ -3,7 +3,9 @@
 
 Welcome to My GitHub! I'm a passionate Technical Writer who thrives on learning about new documentation tools and implementing them to streamline processes. I hold a Bachelor's degree in Computer Science and Engineering, and I've also completed a Postgraduate program in Advanced Project Management and Strategic Leadership. 
 
-When I'm not busy with work, you can catch me indulging in crime and horror movies for some thrilling entertainment. 🎬
+## Interests
+- When I'm not busy with work, you can catch me indulging in crime and horror movies for some thrilling entertainment. 🎬 
+- I also make pottery at home and sellit on my online shop. You can checkout my website at [www.gharbysr.com](url)
 
 # This is what I do 
 I'm the go-to person for writing clear and helpful guides about tech stuff. Whether it's explaining how to use new software or updating manuals, I make sure everything makes sense. With tools like Madcap Flare, Robohelp, AdobeFramemaker, Confluence or MS_Word, I turn complicated info into easy-to-understand words. 
