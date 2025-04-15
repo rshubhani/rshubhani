@@ -14,14 +14,15 @@ I'm the go-to person for writing clear and helpful guides about tech stuff. Whet
 | Project 3| Link |
 
 ### Skills 
-Madcap Flare, Robohelp, Snaggit, Drupal, JIRA, Confluence, AWS (S3), Gitlab, Jenkins, Canva, Wix, Mural  
+Madcap Flare, Robohelp, Snaggit, Drupal, Agile Methodology, JIRA, Confluence, AWS (S3), Gitlab, Jenkins, Canva, Wix, Mural, Video-edting softwares such as Da Vinci Resolve, HitFilm Express, AI tools (ChatGpt, Grok.ai, Perplexity, Claude)
 
 ## Interests
 - When I'm not busy with work, you can catch me indulging in crime and horror movies for some thrilling entertainment. 🎬 
 - I also make pottery at home and sellit on my online shop. You can checkout my website and Instagram account at [www.gharbysr.com](url) [https://www.instagram.com/ghar_by_sr/](url)
 
 ![alt text](https://github.com/user-attachments/assets/6e4fd7da-061b-4d12-963e-0f154eb9ec12)
-::: I only do this for fun and to enhance my  digital marketting skills
+
+::: 🏺 Making pottery is a great way to relax myself after a long day at work. It also helps enhance my digital marketting and social media skills. 
 
 # Let's Link up!
 
