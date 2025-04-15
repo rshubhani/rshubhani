@@ -20,12 +20,12 @@ Madcap Flare, Robohelp, Snaggit, Drupal, Agile Methodology, JIRA, Confluence, AW
 - When I'm not busy with work, you can catch me indulging in crime and horror movies for some thrilling entertainment. 🎬 
 - I also make pottery at home and sellit on my online shop. You can checkout my website and Instagram account at [www.gharbysr.com](url) [https://www.instagram.com/ghar_by_sr/](url)
 
-![alt text](https://github.com/user-attachments/assets/6e4fd7da-061b-4d12-963e-0f154eb9ec12)
+![Handmade mug with a red heart heart](https://github.com/user-attachments/assets/6e4fd7da-061b-4d12-963e-0f154eb9ec12)
 
 ::: 🏺 Making pottery is a great way to relax myself after a long day at work. It also helps enhance my digital marketting and social media skills. 
 
 # Let's Link up!
-
+I'm always open to talking about writing, creativity, or even just cool mugs.  
 - GitHub: https://github.com/rshubhani
 - Linkedln: https://www.linkedin.com/in/shubhani-rawat-12a82892/
 
