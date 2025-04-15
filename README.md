@@ -14,7 +14,7 @@ I'm the go-to person for writing clear and helpful guides about tech stuff. Whet
 | Project 3| Link |
 
 ### Skills 
-Madcap Flare, Robohelp, Snaggit, Drupal, Agile Methodology, JIRA, Confluence, AWS (S3), Gitlab, Jenkins, Canva, Wix, Mural, Video-edting softwares such as Da Vinci Resolve, HitFilm Express, AI tools (ChatGpt, Grok.ai, Perplexity, Claude)
+Madcap Flare, Robohelp, Snaggit, Drupal, Agile Methodology, JIRA, Confluence, AWS (S3), Gitlab, Jenkins, Canva, Wix, Mural, Video-editting softwares such as Da Vinci Resolve, HitFilm Express, AI tools (ChatGpt, Grok.ai, Perplexity, Claude)
 
 ## Interests
 - When I'm not busy with work, you can catch me indulging in crime and horror movies for some thrilling entertainment. 🎬 
