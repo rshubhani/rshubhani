@@ -1,4 +1,4 @@
-# Hi, I am Shubhani rawat 👋
+# Hi, I am Shubhani Rawat 👋
 Welcome to my technical writing journey!
 
 ## Skills I am learning:
